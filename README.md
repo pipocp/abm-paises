@@ -1,4 +1,4 @@
-### AMB de paises desarrollado con React (corre en nginx) y una api en express (corre en node) listo para dockerizar
+### AMB de paises desarrollado con React (corre en nginx) y una api en express que se conecta a willy (corre en node) listo para dockerizar
 
 ### Levantar en desarrollo 🔧
 
