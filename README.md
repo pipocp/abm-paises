@@ -19,6 +19,8 @@ Con estas lineas levantas la api en http://localhost:8082/
 
 ### Levantar en docker 🔧
 
+Descargar el docker para windows de: https://download.docker.com/win/beta/InstallDocker.msi
+
 # Cliente:
 ```
 Es importante primero hacer el build del sitio:
