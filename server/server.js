@@ -10,5 +10,5 @@ app.use(function(req, res, next) {
 require('./api/paises')(app);
 
 app.listen(8082, function () {
-  console.log('Server corriendo en puerto 8082');
+  console.log('Server corriendo en el puerto 8082');
 });
